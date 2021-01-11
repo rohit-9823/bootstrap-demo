@@ -1,0 +1,31 @@
+.navbar-expand-lg {
+  background-color: rgba(0, 0, 0, 0.644);
+  position: sticky;
+  transition: 0.3s;
+}
+
+.navbar-brand {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.nav-link {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+.btn-search {
+  color: white;
+  border: 1px solid white !important;
+}
+.detail-circle > h2 {
+  position: relative;
+  left: 30%;
+}
+.text-muted {
+  font-size: large;
+}
+.contact-detail > h4 {
+  margin-top: 10px;
+  font-size: medium;
+  font-weight: 800;
+}
+.check {
+  margin: 0px 3px !important;
+}
